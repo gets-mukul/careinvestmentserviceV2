@@ -108,7 +108,7 @@
 	/* ----------------------------------------------------------- */
 	/*  4. PORTFOLIO GALLERY
 	/* ----------------------------------------------------------- */ 
-		$('.filtr-container').filterizr();
+		//$('.filtr-container').filterizr();
 
 		//Simple filter controls
 
@@ -130,18 +130,6 @@
 		});
 		
 		
-
-	/* ----------------------------------------------------------- */
-	/*  6. PORTFOLIO POPUP VIEW ( IMAGE LIGHTBOX )
-	/* ----------------------------------------------------------- */ 
-
-	$('.mu-imglink').magnificPopup({
-	  type: 'image',
-	  mainClass: 'mfp-fade',
-	  gallery:{
-	    enabled:true
-	  }
-	});
 
 	/* ----------------------------------------------------------- */
 	/*  7. CLIENT TESTIMONIALS (SLICK SLIDER)
