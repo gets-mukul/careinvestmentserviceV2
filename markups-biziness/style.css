@@ -572,20 +572,20 @@ button:focus {
 /*--------------------*/
 
 
-#mu-service {
+#mu-programmes {
 	display: inline;
 	float: left;
 	width: 100%;
 }
 
-.mu-service-area {
+.mu-programmes-area {
 	display: inline;
 	float: left;
 	padding: 100px 0;
 	width: 100%;
 }
 
-.mu-service-header {
+.mu-programmes-header {
 	display: inline;
 	float: left;
 	text-align: center;
@@ -607,14 +607,14 @@ button:focus {
 	margin-bottom: 20px;
 }
 
-.mu-service-content{
+.mu-programmes-content{
 	display: inline;
 	float: left;
 	margin-top: 70px;
 	width: 100%;
 }
 
-.mu-service-content-single{
+.mu-programmes-content-single{
 	display: inline;
 	float: left;
 	text-align: left;
@@ -624,19 +624,19 @@ button:focus {
 	width: 100%;
 }
 
-.mu-service-icon-box {
+.mu-programmes-icon-box {
 	font-size: 35px;
 	margin-bottom: 20px;
 	display: inline-block;
 	border-radius: 10px;
 }
 
-.mu-service-content-single h4{
+.mu-programmes-content-single h4{
 	margin-bottom: 20px;
 	font-size: 20px;
 }
 
-.mu-service-content-single p{
+.mu-programmes-content-single p{
 	font-size: 15px;
 }
 
@@ -646,21 +646,21 @@ button:focus {
 /*--------------------*/
 
 
-#mu-portfolio {
+#mu-gallery {
 	background-color: #f8f8f8;
 	display: inline;
 	float: left;
 	width: 100%;
 }
 
-.mu-portfolio-area {
+.mu-gallery-area {
 	display: inline;
 	float: left;
 	padding: 100px 0;
 	width: 100%;
 }
 
-.mu-portfolio-header {
+.mu-gallery-header {
 	display: inline;
 	float: left;
 	text-align: center;
@@ -682,14 +682,14 @@ button:focus {
 	margin-bottom: 20px;
 }
 
-.mu-portfolio-content{
+.mu-gallery-content{
 	display: inline;
 	float: left;
 	margin-top: 50px;
 	width: 100%;
 }
 
-.mu-portfolio-filter-area{
+.mu-gallery-filter-area{
 	display: inline;
 	float: left;
 	width: 100%;
@@ -765,20 +765,20 @@ button:focus {
 /*--------------------*/
 
 
-#mu-team {
+#mu-knowledge-centre {
 	display: inline;
 	float: left;
 	width: 100%;
 }
 
-.mu-team-area {
+.mu-knowledge-centre-area {
 	display: inline;
 	float: left;
 	padding: 100px 0;
 	width: 100%;
 }
 
-.mu-team-header {
+.mu-knowledge-centre-header {
 	display: inline;
 	float: left;
 	text-align: center;
@@ -786,14 +786,14 @@ button:focus {
 }
 
 
-.mu-team-content{
+.mu-knowledge-centre-content{
 	display: inline;
 	float: left;
 	margin-top: 70px;
 	width: 100%;
 }
 
-.mu-team-content-single {
+.mu-knowledge-centre-content-single {
 	background-color: #ecf0f1;
 	display: inline;
 	float: left;
@@ -804,24 +804,24 @@ button:focus {
 	padding: 15px;
 }
 
-.mu-team-content-single:hover {
+.mu-knowledge-centre-content-single:hover {
 	-webkit-transition: background-color 1000ms linear;
     -ms-transition: background-color 1000ms linear;
     transition: background-color 1000ms linear;
 }
 
-.mu-team-content-single:hover .mu-team-info {
+.mu-knowledge-centre-content-single:hover .mu-knowledge-centre-info {
 	color: #fff;
 }
 
-.mu-team-profile {
+.mu-knowledge-centre-profile {
 	display: inline;
 	float: left;
 	position: relative;
 	width: 100%;
 }
 
-.mu-team-info {
+.mu-knowledge-centre-info {
 	display: inline;
 	float: left;
 	width: 100%;
@@ -829,18 +829,18 @@ button:focus {
 	padding: 10px;
 }
 
-.mu-team-info h4 {
+.mu-knowledge-centre-info h4 {
 	font-size: 18px;
 	text-transform: uppercase;
 	margin-top: 10px;
 	margin-bottom: 0;
 }
 
-.mu-team-info span{
+.mu-knowledge-centre-info span{
 	font-size: 13px;
 }
 
-.mu-team-social-info {
+.mu-knowledge-centre-social-info {
 	background: rgba(0,0,0,0.85);
 	position: absolute;
 	left: 0;
@@ -860,11 +860,11 @@ button:focus {
 	transition: all 0.5s;
 }
 
-.mu-team-content-single:hover .mu-team-social-info{
+.mu-knowledge-centre-content-single:hover .mu-knowledge-centre-social-info{
 	opacity: 1;
 }
 
-.mu-team-social-info a {
+.mu-knowledge-centre-social-info a {
 	color: #fff;
 	border: 1px solid #fff;
 	text-align: center;
@@ -879,8 +879,8 @@ button:focus {
 	transition: all 0.5s;
 }
 
-.mu-team-social-info a:hover,
-.mu-team-social-info a:focus{
+.mu-knowledge-centre-social-info a:hover,
+.mu-knowledge-centre-social-info a:focus{
 	background-color: #fff;
 	border-color: #fff;
 }
@@ -1332,7 +1332,7 @@ button:focus {
 		display: inline-block;
 	}
 
-	.mu-team-content .row > div {
+	.mu-knowledge-centre-content .row > div {
 		width: 49.5%;
 		float: left;
 	}
@@ -1424,7 +1424,7 @@ button:focus {
 		font-size: 14px;
 	}
 
-	.mu-team-social-info a {
+	.mu-knowledge-centre-social-info a {
 		width: 35px;
 		height: 35px;
 		font-size: 16px;
@@ -1469,7 +1469,7 @@ button:focus {
 		font-size: 12px;
 	}
 
-	.mu-team-content .row > div {
+	.mu-knowledge-centre-content .row > div {
 		width: 100%;
 	}
 
