@@ -983,20 +983,20 @@ button:focus {
 /*--------------------*/
 
 
-#mu-clients {
+#mu-nism {
 	display: inline;
 	float: left;
 	width: 100%;
 }
 
-.mu-clients-area {
+.mu-nism-area {
 	display: inline;
 	float: left;
 	padding: 100px 0;
 	width: 100%;
 }
 
-.mu-clients-header {
+.mu-nism-header {
 	display: inline;
 	float: left;
 	text-align: center;
@@ -1004,14 +1004,14 @@ button:focus {
 }
 
 
-.mu-clients-content{
+.mu-nism-content{
 	display: inline;
 	float: left;
 	margin-top: 80px;
 	width: 100%;
 }
 
-.mu-clients-content-single {
+.mu-nism-content-single {
 	display: inline;
 	float: left;
 	text-align: left;
@@ -1298,7 +1298,7 @@ button:focus {
 		margin-bottom: 10px;
 	}
 
-	.mu-clients-content-single img{
+	.mu-nism-content-single img{
 		width: 100%;
 	}
 
