@@ -43,6 +43,6 @@ Author URI : http://www.markups.io/
   background-color: #970001;
 }
 
-.mu-contact-form .form-control:focus {
+.mu-stock-broker-form .form-control:focus {
   border: 1px solid #970001;    
 } 

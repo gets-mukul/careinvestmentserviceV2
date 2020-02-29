@@ -1024,41 +1024,41 @@ button:focus {
 /* CONTACT US */
 /*--------------------*/
 
-#mu-contact {
+#mu-stock-broker {
 	background-color: #f8f8f8;
 	display: inline;
 	float: left;
 	width: 100%;
 }
 
-.mu-contact-area {
+.mu-stock-broker-area {
 	display: inline;
 	float: left;
 	padding: 100px 0;
 	width: 100%;
 }
 
-.mu-contact-header {
+.mu-stock-broker-header {
 	display: inline;
 	float: left;
 	text-align: center;
 	width: 100%;
 }
 
-.mu-contact-content{
+.mu-stock-broker-content{
 	display: inline;
 	float: left;
 	margin-top: 50px;
 	width: 100%;
 }
 
-.mu-contact-left {
+.mu-stock-broker-left {
 	display: inline;
 	float: left;
 	width: 100%;
 }
 
-.mu-contact-form .form-group input {
+.mu-stock-broker-form .form-group input {
 	background: transparent;
 	color: #333;
 	font-size: 15px;
@@ -1068,7 +1068,7 @@ button:focus {
 	margin-bottom: 24px;
 }
 
-.mu-contact-form .form-group textarea{
+.mu-stock-broker-form .form-group textarea{
 	color: #333;
 	background: transparent;
 	border: 1px solid #333;
@@ -1078,65 +1078,65 @@ button:focus {
 	height: 190px;
 }
 
-.mu-contact-form .form-control:focus {
+.mu-stock-broker-form .form-control:focus {
 	background-color: #fff;
     outline: 0;
     box-shadow: none;    
 } ©
 
-.mu-contact-form .form-control::-webkit-input-placeholder {
+.mu-stock-broker-form .form-control::-webkit-input-placeholder {
 	color: #888;
 	font-size: 15px;
 }
 
-.mu-contact-form .form-control:-moz-placeholder { /* Firefox 18- */
+.mu-stock-broker-form .form-control:-moz-placeholder { /* Firefox 18- */
 	color: #888;
 	font-size: 15px; 
 }
 
-.mu-contact-form .form-control::-moz-placeholder {  /* Firefox 19+ */
+.mu-stock-broker-form .form-control::-moz-placeholder {  /* Firefox 19+ */
 	color: #888;
 	font-size: 15px;
 }
 
-.mu-contact-form .form-control:-ms-input-placeholder {  
+.mu-stock-broker-form .form-control:-ms-input-placeholder {  
 	color: #888;
 	font-size: 15px;
 }
 
-.mu-contact-form button {
+.mu-stock-broker-form button {
 	float: left;
 	margin-left: 0;
 	border-radius: 0px;
 }
 
-.mu-contact-form .button-default::after,
-.mu-contact-form .button-default > span {
+.mu-stock-broker-form .button-default::after,
+.mu-stock-broker-form .button-default > span {
 	padding: 12px 40px;  
 }
 
-.mu-contact-right {
+.mu-stock-broker-right {
 	display: inline;
 	float: left;
 	width: 100%;
 }
 
-.mu-contact-right h4{
+.mu-stock-broker-right h4{
 	font-size: 24px;
 }
 
-.mu-contact-right address {
+.mu-stock-broker-right address {
 	padding-left: 0;
 	margin-top: 15px;
 	display: block;
 	width: 100%;
 }
 
-.mu-contact-right address p {
+.mu-stock-broker-right address p {
 	font-size: 16px;
 }
 
-.mu-contact-right address p i{
+.mu-stock-broker-right address p i{
 	margin-right: 10px;
 }
 
@@ -1302,7 +1302,7 @@ button:focus {
 		width: 100%;
 	}
 
-	.mu-contact-right {
+	.mu-stock-broker-right {
 		margin-top: 50px;
 	}
 	
@@ -1431,7 +1431,7 @@ button:focus {
 		line-height: 35px;
 	}
 
-	.mu-contact-form button {
+	.mu-stock-broker-form button {
 		width: 100%;
 	}
 
